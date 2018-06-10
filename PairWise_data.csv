@@ -1,0 +1,12 @@
+,Index,Parent,Field A,Field B,Flag,Priority,Intensity
+0,0,root,Location,Company profile,Mandatory,,
+2,2,root,Company profile,Recommendation,Mandatory,,
+3,3,Location,Geography,External Factors,Mandatory,,
+4,4,Company profile,Nature of Organization,Years of Existance,Mandatory,,
+7,7,Company profile,Years of Existance,Offer Proposition,Mandatory,,
+9,9,Company profile,Offer Proposition,Debt and Equity ratio,Mandatory,,
+10,10,Recommendation,Third-party Score,Referencible partner,Mandatory,,
+1,1,root,Location,Recommendation,Non-Mandatory,,
+5,5,Company profile,Nature of Organization,Offer Proposition,Non-Mandatory,,
+6,6,Company profile,Nature of Organization,Debt and Equity ratio,Non-Mandatory,,
+8,8,Company profile,Years of Existance,Debt and Equity ratio,Non-Mandatory,,
