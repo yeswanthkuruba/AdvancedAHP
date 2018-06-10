@@ -1,0 +1,12 @@
+Parent,Node
+root,Location
+root,Company profile
+root,Recommendation
+Location,Geography
+Location,External Factors
+Company profile,Nature of Organization
+Company profile,Years of Existance
+Company profile,Offer Proposition
+Company profile,Debt and Equity ratio
+Recommendation,Third-party Score
+Recommendation,Referencible partner
